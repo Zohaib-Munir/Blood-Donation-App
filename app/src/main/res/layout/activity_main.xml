@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@color/white"
+            android:src="@drawable/bloodlogo" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Thank You For Registering"
+            android:textColor="@color/black"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:padding="5dp"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="You Will Recieve SMS Shortly"
+            android:textColor="@color/black"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:padding="5dp"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/buttons_background"
+            android:text="LogOut Now"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Developed By : Zohaib Munir"
+            android:textColor="@color/black"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:textSize="20sp"
+            android:textColorLink="@color/black"
+            android:textStyle="bold"
+            android:padding="5dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>
