@@ -8,29 +8,15 @@
 * **TextInputEditText Style**
 * <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
   
+<hr>
   
-## Splash Screen
+## App Screenshots
   
-  
-<img height ="400"  src="images/SplashScreen.jpeg">
-  
+<img align = "left" height ="405" alt = "Splash-Screen" src="images/SplashScreen.jpeg"> 
+<img align = "left" height ="405"  alt = "SignIn-Image" src="images/SignIn.jpeg">
+<img align = "left" height ="405" alt = "Main-Screen" src="images/MainActivity.jpeg">
+<img align = "left" height ="405"  alt = "Recipient" src="images/Recipient.jpeg">
+<img align = "left" height ="405" alt = "Donor-Image"  src="images/donor.jpeg">
    
-## Main Activity
-  
-<img height ="400"  src="images/MainActivity.jpeg">
-  
-   
-## Recipient
-  
-<img height ="400"  src="images/Recipient.jpeg">
-  
-   
-## Donor
-  
-<img height ="400"  src="images/donor.jpeg">
-   
-## Sign-In
-  
-<img height ="400"  src="images/SignIn.jpeg">
-  
 
+  
