@@ -7,7 +7,8 @@
 * **Color Scheme** ( **Background Color #fe2a57 , Statusbar Color #EA0D3C**).
 * **TextInputEditText Style**
 * <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
-  
+
+#
   
 ## App Screenshots
   
@@ -17,7 +18,7 @@
 <img align = "left" height ="410" alt = "Donor-Image"  src="images/donor.jpeg">
 <img align = "left" height ="410"  alt = "Recipient" src="images/Recipient.jpeg">
  
-<br>  
+#  
  
 ## Developer
   
