@@ -8,7 +8,6 @@
 * **TextInputEditText Style**
 * <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
   
-<hr>
   
 ## App Screenshots
   
@@ -18,7 +17,7 @@
 <img align = "left" height ="410" alt = "Donor-Image"  src="images/donor.jpeg">
 <img align = "left" height ="410"  alt = "Recipient" src="images/Recipient.jpeg">
  
-  
+<br>  
  
 ## Developer
   
