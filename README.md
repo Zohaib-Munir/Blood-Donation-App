@@ -12,11 +12,11 @@
   
 ## App Screenshots
   
-<img align = "left" height ="390" alt = "Splash-Screen" src="images/SplashScreen.jpeg"> 
-<img align = "left" height ="390"  alt = "SignIn-Image" src="images/SignIn.jpeg">
-<img align = "left" height ="390" alt = "Main-Screen" src="images/MainActivity.jpeg">
-<img align = "left" height ="390"  alt = "Recipient" src="images/Recipient.jpeg">
-<img align = "left" height ="390" alt = "Donor-Image"  src="images/donor.jpeg">
+<!-- <img align = "left" height ="405" alt = "Splash-Screen" src="images/SplashScreen.jpeg">  !-->
+<img align = "left" height ="405"  alt = "SignIn-Image" src="images/SignIn.jpeg">
+<img align = "left" height ="405" alt = "Main-Screen" src="images/MainActivity.jpeg">
+<img align = "left" height ="405" alt = "Donor-Image"  src="images/donor.jpeg">
+<img align = "left" height ="405"  alt = "Recipient" src="images/Recipient.jpeg">
    
 
   
