@@ -13,10 +13,13 @@
 ## App Screenshots
   
 <!-- <img align = "left" height ="405" alt = "Splash-Screen" src="images/SplashScreen.jpeg">  !-->
-<img align = "left" height ="405"  alt = "SignIn-Image" src="images/SignIn.jpeg">
-<img align = "left" height ="405" alt = "Main-Screen" src="images/MainActivity.jpeg">
-<img align = "left" height ="405" alt = "Donor-Image"  src="images/donor.jpeg">
-<img align = "left" height ="405"  alt = "Recipient" src="images/Recipient.jpeg">
-   
-
+<img align = "left" height ="408"  alt = "SignIn-Image" src="images/SignIn.jpeg">
+<img align = "left" height ="408" alt = "Main-Screen" src="images/MainActivity.jpeg">
+<img align = "left" height ="408" alt = "Donor-Image"  src="images/donor.jpeg">
+<img align = "left" height ="408"  alt = "Recipient" src="images/Recipient.jpeg">
+ 
   
+<hr>
+ 
+## Developer
+ <a href="https://github.com/Zohaib-Munir"> Zohaib Munir </a> 
